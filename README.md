@@ -1,4 +1,8 @@
-### Hi there 👋
+### 👋 Hi, I'm Steven
+
+- 🎓 Studying CS @ Northeastern University (expected Spring 2024)
+- 💻 I’m interested in software engineering and development
+- 👨‍💼 Seeking full-time software engineering opportunities
 
 <!--
 **stevenxngo/stevenxngo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
