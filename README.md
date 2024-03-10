@@ -1,4 +1,4 @@
-<div align="center">
+<div id="intro" align="center">
   <h1>👋 Hi, I'm Steven</h1>
 </div>
 
@@ -10,7 +10,7 @@
   <a href="https://open.spotify.com/user/a202jrbuwjn17aw171oymxokf" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=Spotify&logoColor=white"></a>
 </p>
 
-<h2>About</h2>
+<h2 id="about">About</h2>
 
 - 🎓 Studying CS @ Northeastern University (expected Spring 2024)
 - 💻 Seeking full-time software engineering opportunities
@@ -18,7 +18,7 @@
 - 🎵 Likely at a concert or creating a Spotify playlist
 - 📬 Feel free to reach out!
 
-<h2>Skills</h2>
+<h2 id="skills">Skills</h2>
 
 <div align="center">
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
