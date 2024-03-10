@@ -32,8 +32,8 @@
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
   <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
   <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=Express&logoColor=white">
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white">
 <!--   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"> -->
 </div>
