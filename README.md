@@ -15,6 +15,7 @@
 - 🎓 Studying CS @ Northeastern University (expected Spring 2024)
 - 💻 Seeking full-time software engineering opportunities
 - 📈 Experience as a software engineer co-op and data analyst intern
+- 🎵 Likely at a concert or creating a Spotify playlist
 - 📬 Feel free to reach out!
 
 <h2>Skills</h2>
@@ -35,14 +36,16 @@
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white">
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
+<!--   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"> -->
 </div>
 
+<!--
 <div align="center">
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
 </div>
+-->
 
 <!--
 **stevenxngo/stevenxngo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
