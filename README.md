@@ -14,7 +14,6 @@
 
 - 🎓 Studying CS @ Northeastern University (expected Spring 2024)
 - 💻 Seeking full-time software engineering opportunities
-- 📈 Experience as a software engineer co-op and data analyst intern
 - 🎵 Likely at a concert or creating a Spotify playlist
 - 📬 Feel free to reach out!
 
