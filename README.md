@@ -3,11 +3,11 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/stevenxngo" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@stevenxngo-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
-  <a href="https://personal-portfolio-stevenxngos-projects.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-38b2ac?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/stevenxngo" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-  <a href="mailto:steventxngo@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-  <a href="https://open.spotify.com/user/a202jrbuwjn17aw171oymxokf" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=Spotify&logoColor=white"></a>
+  <a href="https://github.com/stevenxngo" target="_blank" rel="noopener noreferrer"><img alt="GitHub" src="https://img.shields.io/badge/-@stevenxngo-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+  <a href="https://personal-portfolio-stevenxngos-projects.vercel.app/" target="_blank" rel="noopener noreferrer"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-38b2ac?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/stevenxngo" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+  <a href="mailto:steventxngo@gmail.com" target="_blank" rel="noopener noreferrer"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+  <a href="https://open.spotify.com/user/a202jrbuwjn17aw171oymxokf" target="_blank" rel="noopener noreferrer"><img alt="Spotify" src="https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=Spotify&logoColor=white"></a>
 </p>
 
 <h2 id="about">About</h2>
