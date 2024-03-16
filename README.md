@@ -41,6 +41,7 @@
 <!--
 <div align="center">
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+  <img alt="Neo4j" src="https://img.shields.io/badge/-Neo4j-4581C3?style=for-the-badge&logo=Neo4j&logoColor=white">
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
 </div>
