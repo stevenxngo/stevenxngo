@@ -12,7 +12,7 @@
 
 <h2 id="about">About</h2>
 
-- 🎓 Studying CS @ Northeastern University (expected Spring 2024)
+- 🎓 Recent Northeastern University Graduate with a B.S. Computer Science
 - 💻 Seeking full-time software engineering opportunities
 - 🎵 Likely at a concert or creating a Spotify playlist
 - 📬 Feel free to reach out!
