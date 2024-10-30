@@ -12,7 +12,7 @@
 
 <h2 id="about">About</h2>
 
-- Software Development Engineer at CVS Health
+- 🖥️ Software Development Engineer at CVS Health
 - 🎓 Recent Northeastern University Graduate with a B.S. in Computer Science
 - 🎵 Likely at a concert or creating a Spotify playlist
 - 📬 Feel free to reach out!
