@@ -15,8 +15,9 @@
 - 🖥️ Software Development Engineer at Aetna, CVS Health
 - 🎓 Recent Northeastern University Graduate with a B.S. in Computer Science
 - 🎵 Likely at a concert or creating a Spotify playlist
-- 📬 Feel free to reach out!
+- 📬 Feel free to reach out
 
+<!--
 <h2 id="skills">Skills</h2>
 
 <div align="center">
@@ -35,8 +36,9 @@
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white">
-<!--   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"> -->
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
 </div>
+-->
 
 <!--
 <div align="center">
