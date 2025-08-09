@@ -13,7 +13,7 @@
 <h2 id="about">About</h2>
 
 - 🖥️ Software Development Engineer at Aetna, CVS Health
-- 🎓 Recent Northeastern University Graduate with a B.S. in Computer Science
+- 🎓 Northeastern University '24
 - 🧋 Boba connoisseur, football & basketball fan, hobbyist photographer
 - 🎵 Likely at a concert or creating a Spotify playlist
 - 📬 Feel free to reach out
