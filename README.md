@@ -12,7 +12,7 @@
 
 <h2 id="about">About</h2>
 
-- 🖥️ Software Development Engineer at Aetna, CVS Health
+- 🖥️ Software Development Engineer at SpaceX
 - 🎓 Northeastern University '24 - B.S. Computer Science
 - 🧋 Boba connoisseur, football & basketball fan, hobbyist photographer
 - 🎵 Likely at a concert or creating a Spotify playlist
