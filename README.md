@@ -12,9 +12,9 @@
 
 <h2 id="about">About</h2>
 
-- 🖥️ Software Development Engineer at SpaceX
+- 🖥️ Software Engineer at SpaceX
 - 🎓 Northeastern University '24 - B.S. Computer Science
-- 🧋 Boba connoisseur, football & basketball fan, hobbyist photographer
+- 🧋 Boba drinker, football & basketball fan, hobbyist photographer
 - 🎵 Likely at a concert or creating a Spotify playlist
 - 📬 Feel free to reach out
 
